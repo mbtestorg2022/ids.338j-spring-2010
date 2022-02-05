@@ -27,12 +27,110 @@ The final paper should be no more than 10 pages long, in standard 2-column confe
 Project Oral Presentation Grading Rubric
 ----------------------------------------
 
-| CRITERIA | DETAILS | POINTS |
-| --- | --- | --- |
-| Problem formulation |  {{< br >}}{{< br >}} Motivation {{< br >}}{{< br >}} J, g, h, x, p,… {{< br >}}{{< br >}}  | 25 |
-| Modeling and simulation |  {{< br >}}{{< br >}} Benchmarking and validation {{< br >}}{{< br >}} Complexity/model fidelity {{< br >}}{{< br >}} Multidisciplinary analysis {{< br >}}{{< br >}}  | 25 |
-| Optimization |  {{< br >}}{{< br >}} Algorithms used (rationale) {{< br >}}{{< br >}} Algorithm tuning {{< br >}}{{< br >}} Sensitivity analysis {{< br >}}{{< br >}} Post-optimality analysis {{< br >}}{{< br >}} Multi-objective & tradeoff analysis {{< br >}}{{< br >}}  | 25 |
-| Presentation |  {{< br >}}{{< br >}} Clarity {{< br >}}{{< br >}} Viewgraphs {{< br >}}{{< br >}} Plots {{< br >}}{{< br >}} Eye-contact {{< br >}}{{< br >}} Time management {{< br >}}{{< br >}}  | 25 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CRITERIA
+{{< thclose >}}
+{{< thopen >}}
+DETAILS
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem formulation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Motivation
+
+J, g, h, x, p,…
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Modeling and simulation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Benchmarking and validation
+
+Complexity/model fidelity
+
+Multidisciplinary analysis
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Optimization
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Algorithms used (rationale)
+
+Algorithm tuning
+
+Sensitivity analysis
+
+Post-optimality analysis
+
+Multi-objective & tradeoff analysis
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Clarity
+
+Viewgraphs
+
+Plots
+
+Eye-contact
+
+Time management
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Project Examples
 ----------------

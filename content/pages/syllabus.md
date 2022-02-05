@@ -199,12 +199,57 @@ The class project is our main means of assessing whether you can learn the mater
 1.  Project Presentation (ca. 15-20 minutes including Q&A)
 2.  Final Report in the format of a journal or conference article
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Assignments 1-5 (10% each) | 50% |
-| Project presentation | 20% |
-| Final project report | 20% |
-| Active participation/attendance | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignments 1-5 (10% each)
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project presentation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project report
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Active participation/attendance
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Appendix_A" >}}{{< /anchor >}}Appendix A
 ----------------------------------------------------
