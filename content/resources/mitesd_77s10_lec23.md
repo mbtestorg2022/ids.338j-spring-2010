@@ -4,6 +4,7 @@ description: This resource contains information related to MDO framework, subsys
   model development and coupling.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/b49c06c8f42240a4dba1c6f400321b0e_MITESD_77S10_lec23.pdf
 file_type: application/pdf
+parent_uid: fcacecfe-964b-0725-dcce-260507c5b918
 resourcetype: Document
 title: MITESD_77S10_lec23.pdf
 uid: b49c06c8-f422-40a4-dba1-c6f400321b0e
